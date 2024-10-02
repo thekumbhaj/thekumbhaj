@@ -21,7 +21,7 @@
 - LinkedIn: [Kumbhaj shukla](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
 - Twitter: [Kumbhaj Shukla](https://twitter.com/the_kumbhaj)
 - YouTube: [Kumbhaj Shukla](https://www.youtube.com/kumbhaj)
-- Email: kumbhajs0@gmail.com
+- Email: meet.kumbhaj@gmail.com
 - ---
 ⚡ In my free time, you can find me:
 - Solving challenging problems on GeeksforGeeks and Leetcode
