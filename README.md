@@ -17,9 +17,9 @@
 - Founder of Bugbaar Community, where we collectively to experts and tech enthusiast.
 ----
 📫 You can reach out to me through the following channels:
-- GitHub: [Planetkumbhaj](https://github.com/planetkumbhaj)
+- GitHub: [Planetkumbhaj](https://github.com/thekumbhaj)
 - LinkedIn: [Kumbhaj shukla](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
-- Twitter: [Kumbhaj Shukla](https://twitter.com/planetkumbhaj)
+- Twitter: [Kumbhaj Shukla](https://twitter.com/the_kumbhaj)
 - YouTube: [Kumbhaj Shukla](https://www.youtube.com/kumbhaj)
 - Email: kumbhajs0@gmail.com
 - ---
