@@ -5,16 +5,18 @@
 
 🌱 Exploring the vast tech ecosystem, I'm passionate about building innovative solutions.
 
-🎓 I'm also proud to serve as the Chairperson of the GeeksforGeeks Student Chapter.
-
 ----
 🚀 Here's a glimpse of my tech stack:
 - MongoDB, Express.js, Node.js, React.js for full-stack development
 - Python and JavaScript for scripting and application development
 - PostgreSQL for relational database management
 - Machine Learning model training for data-driven insights
-- Full Stack Developer at Curious Ecosystem
 - Founder of Bugbaar Community, where we collectively to experts and tech enthusiast.
+- **Project Mentor** @GirlScript Foundation (GSSoC 2024) - Mentored contributors on the ScrapQuest project.
+- **Coding Educator** @BrightCHAMPS - Taught 1:1 coding sessions to international students from Grade 1 to 12.
+- **Full-Stack Developer** (Open Source) @Curious Ecosystem - Built web applications using Node.js, Express.js, React.js, and Redux.
+- **Hackathon Enthusiast** - Multiple-time winner and finalist at national-level hackathons.
+
 ----
 📫 You can reach out to me through the following channels:
 - GitHub: [thekumbhaj](https://github.com/thekumbhaj)
@@ -26,6 +28,7 @@
 ⚡ In my free time, you can find me:
 - Solving challenging problems on GeeksforGeeks and Leetcode
 - Creating educational content for my YouTube channel.
+  - Hang out with fellows developers, You can write mail.
 
 Let's connect and build amazing things together! 🚀
 
