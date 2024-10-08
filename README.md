@@ -1,7 +1,7 @@
 # Hello, I'm Kumbhaj Shukla
 ----
 
-👨‍💻 Full Stack Developer | 🌐 Open Source Enthusiast | 🤓 Problem Solver
+👨‍💻 Software Builder  | 🌐 Open Source Enthusiast | 🤓 Problem Solver
 
 🌱 Exploring the vast tech ecosystem, I'm passionate about building innovative solutions.
 
@@ -17,7 +17,7 @@
 - Founder of Bugbaar Community, where we collectively to experts and tech enthusiast.
 ----
 📫 You can reach out to me through the following channels:
-- GitHub: [Planetkumbhaj](https://github.com/thekumbhaj)
+- GitHub: [thekumbhaj](https://github.com/thekumbhaj)
 - LinkedIn: [Kumbhaj shukla](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)
 - Twitter: [Kumbhaj Shukla](https://twitter.com/the_kumbhaj)
 - YouTube: [Kumbhaj Shukla](https://www.youtube.com/kumbhaj)
@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.youtube.com/channel/UCLg2UIBodXfd5Ouwhj7X5bw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/planetkumbhaj">
+  <a href="https://twitter.comthe_kumbhaj">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>
