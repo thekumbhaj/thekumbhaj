@@ -1,7 +1,6 @@
 # Hello, I'm Kumbhaj Shukla
 ----
-#Driven by curiosity, powered by tech, focused on results
-
+Driven by curiosity, powered by tech, focused on results
 👨‍💻 Software Builder  | 🌐 Open Source Enthusiast | 🤓 Problem Solver
 
 
