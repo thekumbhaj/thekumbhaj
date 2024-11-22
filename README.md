@@ -1,7 +1,9 @@
 # Hello, I'm Kumbhaj Shukla
 ----
+##Driven by curiosity, powered by tech, focused on results
 
 👨‍💻 Software Builder  | 🌐 Open Source Enthusiast | 🤓 Problem Solver
+
 
 🌱 Exploring the vast tech ecosystem, I'm passionate about building innovative solutions.
 
